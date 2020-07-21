@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BRomine-BArium/static/css/main.9a7fe5c6.chunk.css",
+    "main.js": "/BRomine-BArium/static/js/main.da883431.chunk.js",
+    "main.js.map": "/BRomine-BArium/static/js/main.da883431.chunk.js.map",
+    "runtime-main.js": "/BRomine-BArium/static/js/runtime-main.30a9b732.js",
+    "runtime-main.js.map": "/BRomine-BArium/static/js/runtime-main.30a9b732.js.map",
+    "static/js/2.3958c39f.chunk.js": "/BRomine-BArium/static/js/2.3958c39f.chunk.js",
+    "static/js/2.3958c39f.chunk.js.map": "/BRomine-BArium/static/js/2.3958c39f.chunk.js.map",
+    "index.html": "/BRomine-BArium/index.html",
+    "precache-manifest.77bd051fea4f331cc07d2e1b1668a2eb.js": "/BRomine-BArium/precache-manifest.77bd051fea4f331cc07d2e1b1668a2eb.js",
+    "service-worker.js": "/BRomine-BArium/service-worker.js",
+    "static/css/main.9a7fe5c6.chunk.css.map": "/BRomine-BArium/static/css/main.9a7fe5c6.chunk.css.map",
+    "static/js/2.3958c39f.chunk.js.LICENSE.txt": "/BRomine-BArium/static/js/2.3958c39f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BRomine-BArium/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/BRomine-BArium/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/BRomine-BArium/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a9b732.js",
+    "static/js/2.3958c39f.chunk.js",
+    "static/css/main.9a7fe5c6.chunk.css",
+    "static/js/main.da883431.chunk.js"
+  ]
+}
