@@ -3,9 +3,9 @@ Displays all the characters with their description flipping through over hoverin
 
 ## Preview
 
-<img src="images/bb-1.png" width="500px">
-<img src="images/bb-2.png" width="500px">
-<img src="images/bb-2.png" width="500px">
+<img src="./images/bb-1.png" width="500px">
+<img src="./images/bb-2.png" width="500px">
+<img src="./images/bb-2.png" width="500px">
 
 ## Available Scripts
 
