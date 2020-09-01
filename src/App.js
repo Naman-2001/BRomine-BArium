@@ -51,7 +51,7 @@ const App = () => {
         totalCasts={casts.length}
         paginate={paginate}
       />
-      <p>This is just for testing the git branching</p>
+      <p>This is just for testing the git branching on alpha</p>
     </div>
   );
 };
